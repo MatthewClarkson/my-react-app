@@ -1,7 +1,7 @@
 // Navigation.js
 import React from 'react';
 import './Navigation.css';
-/*Navbar a tags do not go anywhere*/ */
+/*Navbar a tags do not go anywhere*/ 
 const Navigation = () => {
   return (
     <nav className="navbar">
