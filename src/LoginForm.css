@@ -1,0 +1,51 @@
+/* LoginForm.css */
+.login-form {             
+    border:deepskyblue;   
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+    width: 300px;
+    margin-top: 50px;
+    background-color:grey;
+    color:navy;
+    font-size: larger;
+    font-family: cursive;
+    border-radius: 10px;
+    
+  }
+ /*Changed font on heading*/
+  .login-heading {
+    border-bottom: 2px solid #000;
+    font-size: x-large;
+    font-family: cursive;
+  }
+ /* Style for the username input */
+.login-form input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+    box-sizing:border-box;
+    border-radius: 15px;
+    
+  }
+/*CSS for password input*/
+.password-input {
+    width: 100%;
+    padding: 8px;
+    margin: 8px;
+    box-sizing: border-box;
+    border-radius: 15px;
+  }
+/*Hover for form color and font*/
+  .login-form:hover {
+    transform: scale(1.1);
+    background-color:darkmagenta;
+    color: yellow;
+    font-size: xx-large;
+  }
+
+  
+   
+
+  
+  
